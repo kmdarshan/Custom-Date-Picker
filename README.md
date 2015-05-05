@@ -15,4 +15,7 @@ Implement this delegate
     NSLog(@"date has been set %d/%d/%d", month, day, year);
 }
 ```
+![Alt text](https://github.com/kmdarshan/Custom-Date-Picker/blob/master/picker1.png "Optional title")
+
+![Alt text](https://github.com/kmdarshan/Custom-Date-Picker/blob/master/picker2.png "Optional title")
 
